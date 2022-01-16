@@ -3,7 +3,6 @@ import './styles.css';
 import { ReactComponent as StarFull } from 'assests/img/star-full.svg';
 import { ReactComponent as StarHalf } from 'assests/img/star-half.svg';
 import { ReactComponent as StarEmpty } from 'assests/img/star-empty.svg';
-import { type } from 'os';
 
 type Props = {
     score:number;
